@@ -14,9 +14,9 @@ source ~/.zshrc로 적용합니다.
 이전 코드(원본): Android Studio 내장 JDK 경로를 바로 사용한 예
 수정 코드(예시): 시스템 JDK(또는 사용자 지정 JDK)로 바꾼 예 — 실제 경로는 본인 환경에 맞춰 수정하세요.
 
- # ----------------------------------------------------------------
+--
  # [Ktlint & Gradle 설정]
- # ----------------------------------------------------------------
+--
 -# 1. JAVA_HOME을 Android Studio의 내장 JDK로 정확하게 설정
 -#    -> 터미널과 Android Studio가 동일한 Java를 사용하도록 통일
 -export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home"
