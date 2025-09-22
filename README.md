@@ -53,7 +53,7 @@ alias gclean='./gradlew clean'
 alias src='source ~/.zshrc'
 
 사용 예:
-kcheck — 변경된 파일만 ktlint 검사
-kformat — 변경된 파일만 자동 포맷
-kcheckAll/kformatAll — 전체 검사/포맷
-src — 설정 변경 후 바로 적용
+kcheck — 변경된 파일만 ktlint 검사 
+kformat — 변경된 파일만 자동 포맷 
+kcheckAll/kformatAll — 전체 검사/포맷 
+src — 설정 변경 후 바로 적용 
