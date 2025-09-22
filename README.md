@@ -1,4 +1,4 @@
-# Klint local 에서 빠르게 검사 하기
+# Bitbucket 에 연결되 Klint 를 local 에서 먼저 돌려서 검사할 때 기본 가이드
 
 
 1) Android 터미널에서 환경변수 설정하기 
